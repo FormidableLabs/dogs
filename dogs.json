@@ -74,8 +74,8 @@
     "name": "Rusty",
     "breed": "Chihuahua",
     "color": "Brown",
-    "imageUrl": "",
-    "description":
-      "Fourteen pounds of speedy, food-seeking, barkiness."
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/rusty.jpg",
+    "description": "Fourteen pounds of speedy, food-seeking, barkiness."
   }
 ]
