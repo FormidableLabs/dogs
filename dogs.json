@@ -68,5 +68,14 @@
       "https://raw.githubusercontent.com/FormidableLabs/dogs/master/boba.jpg",
     "description":
       "Tiny and bright-eyed, the spunky Pomeranian greets the world with endless curiosity and a sure sense that he’s the cutest thing around. He is clever, adaptable, and happy, whether hanging at home or performing as a top athlete on an agility course."
+  },
+  {
+    "key": "cLnG8C2d_",
+    "name": "Rusty",
+    "breed": "Chihuahua",
+    "color": "Brown",
+    "imageUrl": "",
+    "description":
+      "Fourteen pounds of speedy, food-seeking, barkiness."
   }
 ]
