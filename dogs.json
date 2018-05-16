@@ -4,7 +4,8 @@
     "name": "Milo",
     "breed": "Chihuahua",
     "color": "Tan",
-    "imageUrl": "",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/milo.jpg",
     "description":
       "This sassy little dog has a super-size personality. He knows what he wants and goes after it with single-minded determination. For his size, he’s an excellent watchdog, but he can be yappy if he’s not taught to moderate his barking."
   },
@@ -13,7 +14,8 @@
     "name": "Beau",
     "breed": "Labrador Retriever",
     "color": "Chocolate",
-    "imageUrl": "",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/beau.jpg",
     "description":
       "The Labrador Retriever was bred to be both a friendly companion and a useful working dog breed. Historically, he earned his keep as a fisherman’s helper: hauling nets, fetching ropes, and retrieving fish from the chilly North Atlantic."
   },
@@ -22,7 +24,8 @@
     "name": "Dixie",
     "breed": "Pit Mix",
     "color": "Brown",
-    "imageUrl": "",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/dixie.jpg",
     "description":
       "Pit Bull dogs have historically been known as courageous and heroic animals. Pit Bulls are naturally friendly, active dogs that need a lot of exercise. Most Pits are patient and adore children, which makes them wonderful family dogs."
   },
@@ -31,7 +34,8 @@
     "name": "Lucy",
     "breed": "Beagle",
     "color": "White and Brown",
-    "imageUrl": "",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/lucy.jpg",
     "description":
       "Beagles are scenthounds, meaning they live to use their nose. They’re a comfortable size to tote around in your car, simple to groom, and their exercise needs are easily met with a long, meandering walk that gives them plenty of time to sniff."
   },
@@ -40,7 +44,8 @@
     "name": "Callie",
     "breed": "West Highland White Terrier",
     "color": "White",
-    "imageUrl": "",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/callie.jpg",
     "description":
       "You may recognize the Westie from her long-running stint as the mascot for Cesar pet food, but she’s more than just a cute face. A true terrier, she’s a fast and clever hunter, plus her lighthearted nature makes for a pet who’s always game for some fun."
   },
@@ -49,7 +54,8 @@
     "name": "Leo",
     "breed": "Goldendoodle",
     "color": "Tan",
-    "imageUrl": "",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/leo.jpg",
     "description":
       "Goldendoodle is a hybrid of a Golden Retriever and a Standard Poodle. While Labradoodles were bred to be guide dogs for vision-impaired people with dog-sensitive allergies, Goldendoodles have been bred primarily to be family pets, although they can also make terrific service dogs."
   },
@@ -58,7 +64,8 @@
     "name": "Boba",
     "breed": "Pomeranian",
     "color": "Brown",
-    "imageUrl": "",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/boba.jpg",
     "description":
       "Tiny and bright-eyed, the spunky Pomeranian greets the world with endless curiosity and a sure sense that he’s the cutest thing around. He is clever, adaptable, and happy, whether hanging at home or performing as a top athlete on an agility course."
   }
