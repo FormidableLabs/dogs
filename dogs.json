@@ -135,5 +135,15 @@
       "https://raw.githubusercontent.com/FormidableLabs/dogs/master/otis.jpg",
     "description":
       "Found on Lookout Mountain in Colorado, Otis is an energetic, noisy mutt that will always choose to dive into cacti in pursuit of lizards. He is currently interested in anything that moves or makes a strange sound."
+  },
+  {
+    "key": "sQm_623qM",
+    "name": "Boone",
+    "breed": "Labrador Retriever",
+    "color": "Black",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/boone.jpg",
+    "description":
+      "A larger, fluffier, darker colored version of Laughlan. Very good at cuddling"
   }
 ]
