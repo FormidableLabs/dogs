@@ -40,6 +40,14 @@
     "description": "Sophie does tricks, enthusiastic barker, fan of the boss’s organic salmon, diagnosed OCD."
   },
   {
+    "key": "cLnG8C2d_",
+    "name": "Rusty",
+    "breed": "Chihuahua",
+    "color": "Brown",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/rusty.jpg",
+    "description": "Fourteen pounds of speedy, food-seeking, barkiness."
+  },
+  {
     "key": "Sk1GkChuZ",
     "name": "Lucy",
     "breed": "Beagle",
