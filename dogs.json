@@ -116,5 +116,14 @@
     "imageUrl":
       "https://raw.githubusercontent.com/FormidableLabs/dogs/master/harley.jpg",
     "description": "Land seal. Tries hard af."
+  },
+  {
+    "key": "rWD2q1s_",
+    "name": "Laughlan",
+    "breed": "Labrador Retriever",
+    "color": "Chocolate",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/Laughlan.jpg",
+    "description": "Loves swimming and long walks. Snores like a human."
   }
 ]
