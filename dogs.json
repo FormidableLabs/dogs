@@ -107,5 +107,14 @@
       "https://raw.githubusercontent.com/FormidableLabs/dogs/master/levi.jpg",
     "description":
       "Levi, aka 'Air Spud' is a very large adult boy who is fascinated by tennis balls & jerky treats. His personality often resembles that of a potato, though he is a very happy & big-hearted creature. Currently pursuing swimming & whatever the humans left out on the kitchen counter."
+  },
+  {
+    "key": "1HHChuZd8",
+    "name": "Harley",
+    "breed": "Mutt",
+    "color": "Black",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/harley.jpg",
+    "description": "Land seal. Tries hard af."
   }
 ]
