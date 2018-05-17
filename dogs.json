@@ -4,47 +4,58 @@
     "name": "Milo",
     "breed": "Chihuahua",
     "color": "Tan",
-    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/milo.jpg",
-    "description": "This sassy little dog has a super-size personality. He knows what he wants and goes after it with single-minded determination. For his size, he’s an excellent watchdog, but he can be yappy if he’s not taught to moderate his barking."
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/milo.jpg",
+    "description":
+      "This sassy little dog has a super-size personality. He knows what he wants and goes after it with single-minded determination. For his size, he’s an excellent watchdog, but he can be yappy if he’s not taught to moderate his barking."
   },
   {
     "key": "H1jyJC2_b",
     "name": "Beau",
     "breed": "Labrador Retriever",
     "color": "Chocolate",
-    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/beau.jpg",
-    "description": "The Labrador Retriever was bred to be both a friendly companion and a useful working dog breed. Historically, he earned his keep as a fisherman’s helper: hauling nets, fetching ropes, and retrieving fish from the chilly North Atlantic."
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/beau.jpg",
+    "description":
+      "The Labrador Retriever was bred to be both a friendly companion and a useful working dog breed. Historically, he earned his keep as a fisherman’s helper: hauling nets, fetching ropes, and retrieving fish from the chilly North Atlantic."
   },
   {
     "key": "VmeRTX7j-",
     "name": "Dixie",
     "breed": "Pit Mix",
     "color": "Brown",
-    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/dixie.jpg",
-    "description": "Pit Bull dogs have historically been known as courageous and heroic animals. Pit Bulls are naturally friendly, active dogs that need a lot of exercise. Most Pits are patient and adore children, which makes them wonderful family dogs."
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/dixie.jpg",
+    "description":
+      "Pit Bull dogs have historically been known as courageous and heroic animals. Pit Bulls are naturally friendly, active dogs that need a lot of exercise. Most Pits are patient and adore children, which makes them wonderful family dogs."
   },
   {
     "key": "rJKI1Rhu-",
     "name": "Leo",
     "breed": "Goldendoodle",
     "color": "Tan",
-    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/leo.jpg",
-    "description": "Goldendoodle is a hybrid of a Golden Retriever and a Standard Poodle. While Labradoodles were bred to be guide dogs for vision-impaired people with dog-sensitive allergies, Goldendoodles have been bred primarily to be family pets, although they can also make terrific service dogs."
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/leo.jpg",
+    "description":
+      "Goldendoodle is a hybrid of a Golden Retriever and a Standard Poodle. While Labradoodles were bred to be guide dogs for vision-impaired people with dog-sensitive allergies, Goldendoodles have been bred primarily to be family pets, although they can also make terrific service dogs."
   },
   {
     "key": "tEQM4Lzj_",
     "name": "Sophie",
     "breed": "Mutt with Border Collie DNA",
     "color": "Black",
-    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/sophie.jpg",
-    "description": "Sophie does tricks, enthusiastic barker, fan of the boss’s organic salmon, diagnosed OCD."
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/sophie.jpg",
+    "description":
+      "Sophie does tricks, enthusiastic barker, fan of the boss’s organic salmon, diagnosed OCD."
   },
   {
     "key": "cLnG8C2d_",
     "name": "Rusty",
     "breed": "Chihuahua",
     "color": "Brown",
-    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/rusty.jpg",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/rusty.jpg",
     "description": "Fourteen pounds of speedy, food-seeking, barkiness."
   },
   {
@@ -52,23 +63,49 @@
     "name": "Lucy",
     "breed": "Beagle",
     "color": "White and Brown",
-    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/lucy.jpg",
-    "description": "Beagles are scenthounds, meaning they live to use their nose. They’re a comfortable size to tote around in your car, simple to groom, and their exercise needs are easily met with a long, meandering walk that gives them plenty of time to sniff."
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/lucy.jpg",
+    "description":
+      "Beagles are scenthounds, meaning they live to use their nose. They’re a comfortable size to tote around in your car, simple to groom, and their exercise needs are easily met with a long, meandering walk that gives them plenty of time to sniff."
   },
   {
     "key": "HJMVJR3ub",
     "name": "Callie",
     "breed": "West Highland White Terrier",
     "color": "White",
-    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/callie.jpg",
-    "description": "You may recognize the Westie from her long-running stint as the mascot for Cesar pet food, but she’s more than just a cute face. A true terrier, she’s a fast and clever hunter, plus her lighthearted nature makes for a pet who’s always game for some fun."
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/callie.jpg",
+    "description":
+      "You may recognize the Westie from her long-running stint as the mascot for Cesar pet food, but she’s more than just a cute face. A true terrier, she’s a fast and clever hunter, plus her lighthearted nature makes for a pet who’s always game for some fun."
   },
   {
     "key": "BknG9C2d-",
     "name": "Boba",
     "breed": "Pomeranian",
     "color": "Brown",
-    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/boba.jpg",
-    "description": "Tiny and bright-eyed, the spunky Pomeranian greets the world with endless curiosity and a sure sense that he’s the cutest thing around. He is clever, adaptable, and happy, whether hanging at home or performing as a top athlete on an agility course."
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/boba.jpg",
+    "description":
+      "Tiny and bright-eyed, the spunky Pomeranian greets the world with endless curiosity and a sure sense that he’s the cutest thing around. He is clever, adaptable, and happy, whether hanging at home or performing as a top athlete on an agility course."
+  },
+  {
+    "key": "Bkn7Hq9d-",
+    "name": "Cleo",
+    "breed": "Terrier-Schnauzer Mix",
+    "color": "Salt & Pepper",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/cleo.jpg",
+    "description":
+      "Advancing the collected intelligence of the canine species, Cleo is smart, compassionate, and v good at snuggling. Hobbies include curling up like a donut, barking at mail-carriers, and frequent zoomies."
+  },
+  {
+    "key": "uTW2q9d_",
+    "name": "Levi",
+    "breed": "Golden Retriever",
+    "color": "Yellow",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/master/levi.jpg",
+    "description":
+      "Levi, aka 'Air Spud' is a very large adult boy who is fascinated by tennis balls & jerky treats. His personality often resembles that of a potato, though he is a very happy & big-hearted creature. Currently pursuing swimming & whatever the humans left out on the kitchen counter."
   }
 ]
