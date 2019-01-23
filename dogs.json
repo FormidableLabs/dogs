@@ -166,5 +166,21 @@
     "color": "Tri-color",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/annie.jpg",
     "description": "Mischevious food and dirty diaper bandit.  Survivor of anal-gland carcinoma (srsly)."
+  },
+  {
+    "key": "ngk_4kmk6",
+    "name": "Odie",
+    "breed": "Lab/Husky/Springer Spaniel/Cocker Spaniel Mix",
+    "color": "Yellow",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/odie.jpg",
+    "description": "As lovable as he is strange! Inseparable from his brother Charlie and his people! Chases shadows and stares at corners for hours! Fiercely loyal and master snuggle haver! Allergic to everything! Confused by his own farts!"
+  },
+  {
+    "key": "l5hf_j34j",
+    "name": "Charlie",
+    "breed": "Half Rat Terrier, Half Mutt",
+    "color": "Yellow",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/charlie.jpg",
+    "description": "An unstoppable bundle of joy and friendship! Loves his friends in the Seattle office. Tolerates his brother's incessant ear chewing. Wags could power a wind turbine. The happiest little skunk you'll ever meet!"
   }
 ]
