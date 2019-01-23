@@ -142,5 +142,29 @@
     "color": "Black & White",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/penelope.jpg",
     "description": "Snorts like a pig, but sophisticated like a peacock."
+  },
+  {
+    "key": "jar_6492ux",
+    "name": "Cassie",
+    "breed": "Beagle",
+    "color": "Tri-color",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/cassie.jpg",
+    "description": "Cassie has crossed the rainbow bridge.  She was loyal, fat, and always hungry, like her owner."
+  },
+  {
+    "key": "jar_8re3qux",
+    "name": "Ellie Mae",
+    "breed": "Beagle",
+    "color": "Tri-color",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/elliemae.jpg",
+    "description": "Loves to play and sleep.  Still a puppy after 14 years."
+  },
+  {
+    "key": "bar_9uie1278",
+    "name": "Annie",
+    "breed": "Beagle",
+    "color": "Tri-color",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/annie.jpg",
+    "description": "Mischevious food and dirty diaper bandit.  Survivor of anal-gland carcinoma (srsly)."
   }
 ]
