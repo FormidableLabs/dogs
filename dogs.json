@@ -145,5 +145,13 @@
       "https://raw.githubusercontent.com/FormidableLabs/dogs/master/boone.jpg",
     "description":
       "A larger, fluffier, darker colored version of Laughlan. Very good at cuddling"
+  },
+  {
+    "key": "jar_6493st",
+    "name": "Zeus",
+    "breed": "Lab Dane Mix",
+    "color": "Yellow",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/zeus.jpg",
+    "description": "He is big. He is loveable. He is goofy. Most of all--he is Zeus."
   }
 ]
