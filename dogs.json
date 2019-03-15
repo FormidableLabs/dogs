@@ -182,5 +182,13 @@
     "color": "Yellow",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/charlie.jpg",
     "description": "An unstoppable bundle of joy and friendship! Loves his friends in the Seattle office. Tolerates his brother's incessant ear chewing. Wags could power a wind turbine. The happiest little skunk you'll ever meet!"
+  },
+  {
+    "key": "bnf_13kj",
+    "name": "Fred 'Baby' Diamond",
+    "breed": "Cotralian",
+    "color": "Red",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/fred.jpg",
+    "description": "Half mini-aussie, half cocker-span. Enjoys ball, sunshine naps, and stealing his owners' socks. Living the good life in Phoenix, Arizona."
   }
 ]
