@@ -190,5 +190,13 @@
     "color": "Red",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/fred.jpg",
     "description": "Half Mini Australian Shepard, half Cocker Spaniel. Enjoys ball, sunshine naps, and stealing his owners' socks. Living the good life in Phoenix, Arizona."
+  },
+  {
+    "key": "kr_32619",
+    "name": "Baker",
+    "breed": "Braque Francais Pyrenees",
+    "color": "White",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/baker.jpg",
+    "description": "Born January 23, 2019, our sweet and friendly 9 week old puppy will grow into a  medium-sized dog with a soft, shorthaired coat with a gentle and family friendly character. He was bred to hunt the very rugged and arid Pyrenees Mountain range on the border of France and Spain. We look forward to many years of outdoor adventures with our new best friend."
   }
 ]
