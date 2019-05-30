@@ -198,5 +198,21 @@
     "color": "White",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/baker.jpg",
     "description": "Born January 23, 2019, our sweet and friendly 9 week old puppy will grow into a  medium-sized dog with a soft, shorthaired coat with a gentle and family friendly character. He was bred to hunt the very rugged and arid Pyrenees Mountain range on the border of France and Spain. We look forward to many years of outdoor adventures with our new best friend."
+  },
+  {
+    "key": "lcn3_t8h1",
+    "name": "Milo",
+    "breed": "Yorkie",
+    "color": "Tan",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/milo_cesar.jpg",
+    "description": "This sweet little boy is extremely loving and loves to get belly rubs. He's super quiet and ninja like unless he's meeting another dog for the first time. Loves to hoard toys and hide them."
+  },
+  {
+    "key": "ujm_n5g8aL",
+    "name": "Madden",
+    "breed": "Yorkie mixed",
+    "color": "Black",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/madden.jpg",
+    "description": "He's very sweet and overprotective of his humans but friendly once he knows you. He can only eat certain foods but loves his treats, swimming, and chewing on toys. He gets around extremely well on three legs."
   }
 ]
