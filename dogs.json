@@ -214,5 +214,13 @@
     "color": "Black",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/madden.jpg",
     "description": "He's very sweet and overprotective of his humans but friendly once he knows you. He can only eat certain foods but loves his treats, swimming, and chewing on toys. He gets around extremely well on three legs."
+  },
+  {
+    "key": "ldg83_o8n4",
+    "name": "Winnie",
+    "breed": "Golden Retriever",
+    "color": "Yellow",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/winnie.jpg",
+    "description": "Winnie is a rambunctious, energetic, and loving golden retriever.  Her favorite past times are playing fetch (her favorite activity), napping, or swimming in the Chesapeake Bay."
   }
 ]
