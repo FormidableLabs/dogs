@@ -222,5 +222,13 @@
     "color": "Yellow",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/winnie.jpg",
     "description": "Winnie is a rambunctious, energetic, and loving golden retriever.  Her favorite past times are playing fetch (her absolute favorite activity), napping, or swimming in the Chesapeake Bay."
+  },
+  {
+    "key": "isl15_ks84",
+    "name": "Islay",
+    "breed": "Black Mouth Cur",
+    "color": "Brown and Black",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/islay.jpg",
+    "description": "Islay is named for a beautiful island in Scotland, her name is pronounced Eye-lah. She is a very high energy girl who loves to hunt squirrels, rabbits, and mice. On occasion she even catches one. She is obsessed with any and all food and may have already swiped your lunch off of your desk."
   }
 ]
