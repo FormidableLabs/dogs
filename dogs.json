@@ -230,5 +230,21 @@
     "color": "Brown and Black",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/islay.jpg",
     "description": "Islay is named for a beautiful island in Scotland, her name is pronounced Eye-lah. She is a very high energy girl who loves to hunt squirrels, rabbits, and mice. On occasion she even catches one. She is obsessed with any and all food and may have already swiped your lunch off of your desk."
+  },
+  {
+    "key": "jun0_5hbgm",
+    "name": "Juno",
+    "breed": "Toxirn",
+    "color": "Brown",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/juno.jpg",
+    "description": "Juno is a spunky little lady who loves her toys and cuddles on the couch."
+  },
+  {
+    "key": "r3yn_5scmm",
+    "name": "Reyn",
+    "breed": "Miniature Australian Shepherd",
+    "color": "Black, Brown, and White",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/master/reyn.jpg",
+    "description": "Reyn is a sweet and shy girl who loves her treats and walks with her sister."
   }
 ]
