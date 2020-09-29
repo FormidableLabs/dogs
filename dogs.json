@@ -246,5 +246,13 @@
     "color": "Black, Brown, and White",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/main/reyn.jpg",
     "description": "Reyn is a sweet and shy girl who loves her treats and walks with her sister."
+  },
+  {
+    "key": "sc0ut_0mxld",
+    "name": "Scout",
+    "breed": "Schauzer Mix",
+    "color": "Black and White",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/main/reyn.jpg",
+    "description": "Scout is a wild rescue who barks at any kind of large vehicle she sees. She enjoys a greenie treat every morning and knows about 8 tricks so far."
   }
 ]
