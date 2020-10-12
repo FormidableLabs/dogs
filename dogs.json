@@ -254,5 +254,13 @@
     "color": "Black and White",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/main/scout.jpg",
     "description": "Scout is a wild rescue who barks at any kind of large vehicle she sees. She enjoys a greenie treat every morning and knows about 8 tricks so far."
+  },
+  {
+    "key": "ril3y_85MhC",
+    "name": "Riley",
+    "breed": "Goldendoodle",
+    "color": "Apricot",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/main/riley.jpg",
+    "description": "A middle aged meerkat disguised as a Gooldendoodle."
   }
 ]
