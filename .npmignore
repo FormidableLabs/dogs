@@ -1,0 +1,8 @@
+# The following files are never ignored
+# http://npm.github.io/publishing-pkgs-docs/publishing/the-npmignore-file.html
+# package.json
+# README
+# CHANGELOG
+# LICENSE
+/*
+!/dist/*
