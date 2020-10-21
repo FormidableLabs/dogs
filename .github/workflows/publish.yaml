@@ -21,6 +21,8 @@ jobs:
       -
         run: yarn run build
       -
+        run: echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > .npmrc
+      -
         run: yarn run semantic-release --dry-run
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
