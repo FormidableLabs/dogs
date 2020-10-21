@@ -1,4 +1,4 @@
-name: GPR Publish 
+name: Publish
 on: [ push ]
 jobs:
   build:
@@ -14,20 +14,20 @@ jobs:
         with:
           node-version: 14
           registry-url: https://registry.npmjs.org/
-      - 
-        run: npm install -g yarn 
+      -
+        run: npm install -g yarn
       -
         run: yarn install --frozen-lockfile
-      - 
+      -
         run: yarn run build
-      - 
-        run: yarn run semantic-release -- --dry-run
+      -
+        run: yarn run semantic-release --dry-run
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
-      - 
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      -
         run: yarn run semantic-release
         if: ${{ github.ref == 'refs/heads/main' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

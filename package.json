@@ -1,5 +1,5 @@
 {
-  "name": "@formidablelabs/dogs",
+  "name": "@formidable/dogs",
   "version": "1.0.0",
   "description": "Formidable Dogs",
   "author": "@FormidableLabs",
@@ -7,11 +7,8 @@
   "repository": {
     "url": "git+https://github.com/FormidableLabs/dogs.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "scripts": {
-    "build": "rimraf dist/ && tsc"
+    "build": "rimraf dist && tsc"
   },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
