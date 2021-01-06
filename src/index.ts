@@ -271,6 +271,14 @@ const dogs: Dogs[] = [
     "color": "Apricot",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/main/src/riley.jpg",
     "description": "A middle aged meerkat disguised as a Gooldendoodle."
+  },
+  {
+    "key": "lun4_3s935",
+    "name": "Luna",
+    "breed": "Chihuahua Mix",
+    "color": "Black and White",
+    "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/main/src/luna.jpg",
+    "description": "Luna is a momma's girl that occasionally cuddles with the cat, or even dad if necessary. She also loves eating dried up worms on her walks."
   }
 ]
 
