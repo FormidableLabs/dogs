@@ -1,35 +1,55 @@
 name: Publish
-on: [ push ]
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
 jobs:
-  build:
-    name: Build
-    runs-on: ubuntu-latest
+  publish:
+    name: Publish
+
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        node-version: [14.x]
+
     steps:
-      -
-        name: Checkout code
+      - name: Checkout code
         uses: actions/checkout@v2
-      -
-        name: Use Node.js 14
+
+      - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
-          node-version: 14
-          registry-url: https://registry.npmjs.org/
-      -
-        run: npm install -g yarn
-      -
-        run: yarn install --frozen-lockfile
-      -
+          node-version: ${{ matrix.node-version }}
+          node-version: matrix.node-version
+
+      - name: Install
+        run: yarn install --frozen-lockfile --non-interactive
+
+      - name: Build
         run: yarn run build
-      -
+
+      - name: Add npm token
         run: echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > .npmrc
-      -
+
+      # Only do a dry-run in Pull Request
+      - name: Publish (dry-run)
+        if: ${{ github.ref != 'refs/heads/main' }}
         run: yarn run semantic-release --dry-run
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-      -
-        run: yarn run semantic-release
+
+      # Release release in merge to default branch
+      - name: Publish
         if: ${{ github.ref == 'refs/heads/main' }}
+        run: yarn run semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
