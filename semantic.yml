@@ -1,0 +1,4 @@
+# semantic-pull-request configuration
+
+# We _only_ care about PR title because we only do squash and merge.
+titleOnly: true
