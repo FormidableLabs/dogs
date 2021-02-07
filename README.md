@@ -56,5 +56,6 @@ Major version bumps are considered **breaking changes** for `semantic-release` a
 Any of the following PR titles should work for the appropriate release:
 
 * `perf: removed pictures from published package`: Patch
+* `refactor(utils): change internal file utils`: N/A. Add an ad-hoc scope.
 * `refactor: change internal function`: N/A
 * `refactor!: remove dog .jpg files`: Major
