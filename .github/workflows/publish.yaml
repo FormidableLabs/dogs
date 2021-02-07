@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
 
 jobs:
   publish:
@@ -37,15 +34,6 @@ jobs:
       - name: Add npm token
         run: echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' > .npmrc
 
-      # Only do a dry-run in Pull Request
-      - name: Publish (dry-run)
-        if: ${{ github.ref != 'refs/heads/main' }}
-        run: yarn run semantic-release --dry-run
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-
-      # Release release in merge to default branch
       - name: Publish
         if: ${{ github.ref == 'refs/heads/main' }}
         run: yarn run semantic-release
