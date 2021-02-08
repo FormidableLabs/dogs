@@ -2,7 +2,7 @@ dogs 🐕
 ======
 
 [![npm version][npm_img]][npm_site]
-<!-- [![Actions Status][actions_img]][actions_site] -->
+[![Actions Status][actions_img]][actions_site]
 
 Formidable Dogs
 
@@ -71,10 +71,5 @@ Any of the following PR titles should work for the appropriate release:
 * `refactor!: remove dog .jpg files`: Major
 
 [npm_img]: https://badge.fury.io/js/@formidable/dogs.svg
-[npm_site]: http://badge.fury.io/js/@formidable/dogs
-<!--
-TODO(31): Add `ci.yml` actual CI.
-https://github.com/FormidableLabs/dogs/issues/31
 [actions_img]: https://github.com/FormidableLabs/dogs/workflows/CI/badge.svg
 [actions_site]: https://github.com/FormidableLabs/dogs/actions
--->
