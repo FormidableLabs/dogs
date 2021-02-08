@@ -70,6 +70,7 @@ Any of the following PR titles should work for the appropriate release:
 * `refactor: change internal function`: N/A
 * `refactor!: remove dog .jpg files`: Major
 
-[npm_img]: https://badge.fury.io/js/@formidable/dogs.svg
+[npm_img]: https://badge.fury.io/js/%40formidable%2Fdogs.svg
+[npm_site]: https://www.npmjs.com/package/@formidable/dogs
 [actions_img]: https://github.com/FormidableLabs/dogs/workflows/CI/badge.svg
 [actions_site]: https://github.com/FormidableLabs/dogs/actions
