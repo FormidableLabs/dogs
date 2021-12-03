@@ -279,6 +279,16 @@ const dogs: Dogs[] = [
     "color": "Black and White",
     "imageUrl": "https://raw.githubusercontent.com/FormidableLabs/dogs/main/src/luna.jpg",
     "description": "Luna is a momma's girl that occasionally cuddles with the cat, or even dad if necessary. She also loves eating dried up worms on her walks."
+  },
+  {
+    "key": "n3v3_jg73a",
+    "name": "Neve",
+    "breed": "Standard Schnauzer",
+    "color": "Salt & Pepper",
+    "imageUrl":
+      "https://raw.githubusercontent.com/FormidableLabs/dogs/main/src/neve.jpg",
+    "description":
+      "A softee at heart, but very anxious around other people and anything that makes unexpected sounds!",
   }
 ]
 
