@@ -74,3 +74,8 @@ Any of the following PR titles should work for the appropriate release:
 [npm_site]: https://www.npmjs.com/package/@formidable/dogs
 [actions_img]: https://github.com/FormidableLabs/dogs/workflows/CI/badge.svg
 [actions_site]: https://github.com/FormidableLabs/dogs/actions
+
+
+##Maintenance Status
+
+**Active:** Formidable is actively working on this project, and we expect to continue for work for the foreseeable future. Bug reports, feature requests and pull requests are welcome.
