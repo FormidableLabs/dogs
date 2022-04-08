@@ -3,6 +3,7 @@ dogs 🐕
 
 [![npm version][npm_img]][npm_site]
 [![Actions Status][actions_img]][actions_site]
+[![Maintenance Status][maintenance-image]](#maintenance-status)
 
 Formidable Dogs
 
@@ -74,6 +75,7 @@ Any of the following PR titles should work for the appropriate release:
 [npm_site]: https://www.npmjs.com/package/@formidable/dogs
 [actions_img]: https://github.com/FormidableLabs/dogs/workflows/CI/badge.svg
 [actions_site]: https://github.com/FormidableLabs/dogs/actions
+[maintenance-image]: https://img.shields.io/badge/maintenance-active-green.svg?color=brightgreen&style=flat
 
 
 ## Maintenance Status
