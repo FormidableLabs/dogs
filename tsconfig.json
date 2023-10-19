@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "target": "es5",
-    "module": "commonjs",
+    "target": "ES6",
+    "module": "ES2022",
     "moduleResolution": "node",
     "declaration": true,
     "removeComments": true,
