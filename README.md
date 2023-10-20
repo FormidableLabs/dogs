@@ -14,6 +14,15 @@ $ npm install @formidable/dogs
 $ yarn add @formidable/dogs
 ```
 
+## Use
+
+```
+import dogs from '@formidable/dogs';
+
+// You can also import the Dog type if needed
+import dogs, { Dog } from '@formidable/dogs';
+```
+
 ## Contributing
 
 This repository is configured using [semantic-release](https://github.com/semantic-release/semantic-release) which automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package.
