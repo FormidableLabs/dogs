@@ -14,15 +14,6 @@ $ npm install @formidable/dogs
 $ yarn add @formidable/dogs
 ```
 
-## Use
-
-```
-import dogs from '@formidable/dogs';
-
-// You can also import the Dog type if needed
-import dogs, { Dog } from '@formidable/dogs';
-```
-
 ## Contributing
 
 This repository is configured using [semantic-release](https://github.com/semantic-release/semantic-release) which automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package.
@@ -31,7 +22,7 @@ What does this mean for contributors? It means we need a merge commit that follo
 
 1. Our target for `semantic-release` is a "Squash and merge" GitHub pull request merge. Our repository _only_ allows this kind of merge. We aim to have the _final_ commit meet the conventional commit format.
     * **Note**: This means that along the way to that final merge commit, it doesn't matter how you commit. We don't do pre-commit hooks, nor lint individual commits in a pull request. All we check is the final merge commit to make sure it's all good.
-2. This means that the thing you need to check is the **pull request title** which is what will be used in the squash and merge commit to trigger `semantic release`. We use [semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) to make sure that our PRs have a title meet the eventual format needed. And no worries about changes along the way! You just need to get the PR title in appropriate shape by the time you want to merge.
+2. This means that the thing you need to check is the **pull request title** which is what will be used in the squash and merge commit to trigger `semantic release`. We use [semantic-pull-requests](https://github.com/zeke/semantic-pull-requests)(**NO LONGER MAINTAINED**) to make sure that our PRs have a title meet the eventual format needed. And no worries about changes along the way! You just need to get the PR title in appropriate shape by the time you want to merge.
 
 There are very precise rules over how git commit messages can be formatted. This leads to **more
 readable messages** that are easy to follow when looking through the **project history**. Also,
